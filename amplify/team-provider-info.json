@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-amplify87461284149c4-staging-155619-authRole",
+      "UnauthRoleArn": "arn:aws:iam::178220977262:role/amplify-amplify87461284149c4-staging-155619-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::178220977262:role/amplify-amplify87461284149c4-staging-155619-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-amplify87461284149c4-staging-155619-deployment",
+      "UnauthRoleName": "amplify-amplify87461284149c4-staging-155619-unauthRole",
+      "StackName": "amplify-amplify87461284149c4-staging-155619",
+      "StackId": "arn:aws:cloudformation:eu-central-1:178220977262:stack/amplify-amplify87461284149c4-staging-155619/767d1ba0-ae3e-11ee-80a1-06a675fe9bbb",
+      "AmplifyAppId": "d1c0rm1kn4006g"
+    },
+    "categories": {
+      "auth": {
+        "dechigigithubio": {}
+      }
+    }
+  }
+}
